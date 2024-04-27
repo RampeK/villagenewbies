@@ -1,23 +1,22 @@
 # Villagenewbies
 
-Villagenewbies on kuvitteelinen mökkivaraus järjestelmä, jolla pystytään varaamaan mökkejä asiakkaille. <br>
-Projekti on suunniteltu C# ohjelmointikieltä ja .NET MAUI graafista käyttöliittymää käyttäen, jossa tietokantayhteytenä toimii MySQL.
+Villagenewbies is a cabin booking management system designed to help users book cabins for guests. The project uses C# programming language and .NET MAUI for a graphical user interface, with MySQL as the database.
 
-# Teknologiat
+# Technologies
 
-- **Ohjelmointikieli: C#**
-- **Graafinen käyttöliittymä: .NET MAUI**
-- **Tietokanta: MySQL**
+- **Programming Language: C#**
+- **Graphical Interface: .NET MAUI**
+- **Database: MySQL**
 
-# Ominaisuudet
+# Features
 
-- **Mökkien ja alueiden hallinta:** Mökkien ja alueiden hallinnassa pystyy lisäämään mökkejä, poistamaan mökkeja ja muokkaamaan mökkien tietoja. Samalla alueita pystyy lisäämään ja poistamaan. Sivulla on myös mahdollisuus hakea mistä alueelta mökin haluaa vuokrata ja minkä hintaluokan mökkiä etsii.
-- **Palveluiden hallinta:** Palveluidenhallinnassa pystyy lisäämään, muokkaamaan ja poistamaan palveluita.
-- **Varaushallinta:** Varauksenhallinnassa pystyy tekemään varauksia mökkeihin palveluiden kera ja samalla peruuttamaan varauksia.
-- **Asiakkaidenhallinta:** Asiakkaidenhallinnassa pystyy lisäämään uusia asiakkaita, poistamaan ja muokkaamaan olemassa olevia asiakkaiden tietoja.
-- **Laskutushallinta:** Laskutushallinnassa pystyy tekemään uusia laskuja varauksiin ja samalla pystyy merkitsemään laskun maksetuksi. Laskun yhteydessä muodostuu pdf tiedosto tulostamista varten.
-- **Raportointi:** Raportointi kohdassa pystytään katsomaan minkä aikavälillä on mitäkin mökkejä varattu ja mitä palveluita on ostettu.
+- **Cabin Management: Add, edit, and remove cabins. Set cabin prices and manage locations.
+- **Service Management: Add and remove services, such as sauna or cleaning.
+- **Booking Management: Make bookings with various services, and manage existing bookings.
+- **Customer Management: Add, edit, and remove customer information.
+- **Billing Management: Create invoices for bookings and track payments.
+- **Reporting: Generate reports for bookings, services, and other relevant information.
 
 # Credits
-Projektin on suunnitelleet ja toteuttaneet "Ohjelmistotuotanto 1"-kurssin projektiryhmä:
+The project is designed and developed by the "Software Engineering 1" course project group, including:
 - **Eemil Heiskanen, Rasmus Kuorikoski, Hanna-Kaisa Heikkilä, Hanna Ahonen**
